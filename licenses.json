@@ -1,37 +1,6 @@
 {
   "version": 2,
-  "updated_at": 1789257332,
-  "devices": {
-    "f3b0420c6ed3fa256bd6e8f7": {
-      "note": "SOUYKING own PC",
-      "added_at": 1789251584,
-      "expires": 0
-    },
-    "ccda6beefa684e80c42b65d1": {
-      "note": "dd - 5 months",
-      "added_at": 1789254540,
-      "expires": 1802214540
-    },
-    "f0fc2e39cdfa2f5b4c93dc61": {
-      "note": "ffffffffffffffffffffff",
-      "added_at": 1789256498,
-      "expires": 1802216498
-    }
-  },
-  "keys": {
-    "9477-6314": {
-      "note": "dd - 20$",
-      "created_at": 1789256835,
-      "expires": 1802216987,
-      "device_hash": "ccda6beefa684e80c42b65d1",
-      "disabled": true
-    },
-    "6631-3643": {
-      "note": "ddddddddd",
-      "created_at": 1789257097,
-      "expires": 0,
-      "device_hash": "ccda6beefa684e80c42b65d1",
-      "disabled": true
-    }
-  }
+  "updated_at": 1789257440,
+  "devices": {},
+  "keys": {}
 }
