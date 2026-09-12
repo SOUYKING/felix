@@ -1,0 +1,15 @@
+{
+  "keys": {
+    "N5NZ-KMUU-PDBH-SN8L": {
+      "created_at": 1789246767,
+      "devices": [],
+      "expires_at": 1820782766,
+      "max_devices": 1,
+      "note": "first key - SouyKING test",
+      "status": "active"
+    }
+  },
+  "meta": {
+    "version": 1
+  }
+}
