@@ -17,7 +17,14 @@
     },
     "TEST-BOOT-CCCC-DDDD": {
       "created_at": 1789248322,
-      "devices": [],
+      "devices": [
+        {
+          "bound_at": 1789248324,
+          "device_name": "SIM-PC",
+          "hwid": "bootdevice-0001",
+          "last_seen": 1789248324
+        }
+      ],
       "expires_at": 0,
       "max_devices": 1,
       "note": "boot-flow test",
@@ -40,7 +47,7 @@
     }
   },
   "meta": {
-    "updated_at": 1789247426,
+    "updated_at": 1789248324,
     "version": 1
   }
 }
