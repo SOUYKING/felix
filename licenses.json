@@ -21,7 +21,7 @@
       "expires_at": 0,
       "max_devices": 1,
       "note": "flow-test (will ban)",
-      "status": "active"
+      "status": "banned"
     }
   },
   "meta": {
