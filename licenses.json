@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1789255678,
+  "updated_at": 1789255679,
   "devices": {
     "f3b0420c6ed3fa256bd6e8f7": {
       "note": "SOUYKING own PC",
@@ -16,11 +16,6 @@
       "note": "dd test",
       "added_at": 1789254696,
       "expires": 1791846696
-    },
-    "97831b07bded78bd57c10019": {
-      "note": "practice guy",
-      "added_at": 1789255677,
-      "expires": 1791847677
     }
   },
   "keys": {}
