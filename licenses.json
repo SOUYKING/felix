@@ -2,7 +2,14 @@
   "keys": {
     "N5NZ-KMUU-PDBH-SN8L": {
       "created_at": 1789246767,
-      "devices": [],
+      "devices": [
+        {
+          "bound_at": 1789247310,
+          "device_name": "",
+          "hwid": "a077926664a709334ab956106c9f9507",
+          "last_seen": 1789247310
+        }
+      ],
       "expires_at": 1820782766,
       "max_devices": 1,
       "note": "first key - SouyKING test",
@@ -25,7 +32,7 @@
     }
   },
   "meta": {
-    "updated_at": 1789246804,
+    "updated_at": 1789247310,
     "version": 1
   }
 }
