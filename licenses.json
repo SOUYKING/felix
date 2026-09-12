@@ -28,7 +28,7 @@
       "expires_at": 0,
       "max_devices": 1,
       "note": "boot-flow test",
-      "status": "active"
+      "status": "banned"
     },
     "TEST-FLOW-AAAA-AAAA": {
       "created_at": 1789246802,
