@@ -7,7 +7,7 @@
           "bound_at": 1789247310,
           "device_name": "",
           "hwid": "a077926664a709334ab956106c9f9507",
-          "last_seen": 1789247310
+          "last_seen": 1789247426
         }
       ],
       "expires_at": 1820782766,
@@ -32,7 +32,7 @@
     }
   },
   "meta": {
-    "updated_at": 1789247310,
+    "updated_at": 1789247426,
     "version": 1
   }
 }
