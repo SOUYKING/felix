@@ -22,7 +22,7 @@
           "bound_at": 1789248324,
           "device_name": "SIM-PC",
           "hwid": "bootdevice-0001",
-          "last_seen": 1789248324
+          "last_seen": 1789248339
         }
       ],
       "expires_at": 0,
@@ -47,7 +47,7 @@
     }
   },
   "meta": {
-    "updated_at": 1789248324,
+    "updated_at": 1789248339,
     "version": 1
   }
 }
