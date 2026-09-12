@@ -1,6 +1,14 @@
 {
   "version": 2,
-  "updated_at": 1789257440,
+  "updated_at": 1789257546,
   "devices": {},
-  "keys": {}
+  "keys": {
+    "3429-7772": {
+      "note": "souy",
+      "created_at": 1789257546,
+      "expires": 0,
+      "device_hash": "",
+      "disabled": false
+    }
+  }
 }
