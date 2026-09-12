@@ -1,53 +1,12 @@
 {
-  "keys": {
-    "N5NZ-KMUU-PDBH-SN8L": {
-      "created_at": 1789246767,
-      "devices": [
-        {
-          "bound_at": 1789247310,
-          "device_name": "",
-          "hwid": "a077926664a709334ab956106c9f9507",
-          "last_seen": 1789247426
-        }
-      ],
-      "expires_at": 1820782766,
-      "max_devices": 1,
-      "note": "first key - SouyKING test",
-      "status": "active"
-    },
-    "TEST-BOOT-CCCC-DDDD": {
-      "created_at": 1789248322,
-      "devices": [
-        {
-          "bound_at": 1789248324,
-          "device_name": "SIM-PC",
-          "hwid": "bootdevice-0001",
-          "last_seen": 1789248339
-        }
-      ],
-      "expires_at": 0,
-      "max_devices": 1,
-      "note": "boot-flow test",
-      "status": "banned"
-    },
-    "TEST-FLOW-AAAA-AAAA": {
-      "created_at": 1789246802,
-      "devices": [
-        {
-          "bound_at": 1789246804,
-          "device_name": "PC-ONE",
-          "hwid": "device-aaaaaaaa-1111",
-          "last_seen": 1789246804
-        }
-      ],
-      "expires_at": 0,
-      "max_devices": 1,
-      "note": "flow-test (will ban)",
-      "status": "banned"
+  "version": 1,
+  "updated_at": 1789251584,
+  "devices": {
+    "f3b0420c6ed3fa256bd6e8f7": {
+      "note": "SOUYKING own PC",
+      "added_at": 1789251584,
+      "expires": 0
     }
   },
-  "meta": {
-    "updated_at": 1789248339,
-    "version": 1
-  }
+  "keys": {}
 }
