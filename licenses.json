@@ -15,6 +15,14 @@
       "note": "first key - SouyKING test",
       "status": "active"
     },
+    "TEST-BOOT-CCCC-DDDD": {
+      "created_at": 1789248322,
+      "devices": [],
+      "expires_at": 0,
+      "max_devices": 1,
+      "note": "boot-flow test",
+      "status": "active"
+    },
     "TEST-FLOW-AAAA-AAAA": {
       "created_at": 1789246802,
       "devices": [
