@@ -1,15 +1,10 @@
 {
   "version": 1,
-  "updated_at": 1789253595,
+  "updated_at": 1789253597,
   "devices": {
     "f3b0420c6ed3fa256bd6e8f7": {
       "note": "SOUYKING own PC",
       "added_at": 1789251584,
-      "expires": 0
-    },
-    "13d2d713629003741f730881": {
-      "note": "ali - 20$",
-      "added_at": 1789253595,
       "expires": 0
     }
   },
