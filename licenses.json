@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": 1789500342,
+  "updated_at": 1789500439,
   "devices": {},
   "keys": {
     "3429-7772": {
@@ -36,7 +36,7 @@
       "created_at": 1789500342,
       "expires": 0,
       "device_hash": "75250913f3926d9212ecd97c",
-      "disabled": false
+      "disabled": true
     }
   }
 }
