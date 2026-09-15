@@ -50,9 +50,9 @@
                                    "created_at":  1789509389,
                                    "expires":  0,
                                    "device_hash":  "",
-                                   "disabled":  false
+                                   "disabled":  true
                                }
              },
     "version":  2,
-    "updated_at":  1789509389
+    "updated_at":  1789509399
 }
