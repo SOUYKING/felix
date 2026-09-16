@@ -65,8 +65,15 @@
                                    "expires":  0,
                                    "device_hash":  "",
                                    "disabled":  false
+                               },
+                 "3017-9507":  {
+                                   "note":  "real felix test",
+                                   "created_at":  1789602506,
+                                   "expires":  0,
+                                   "device_hash":  "",
+                                   "disabled":  false
                                }
              },
     "version":  2,
-    "updated_at":  1789601761
+    "updated_at":  1789602506
 }
